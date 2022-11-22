@@ -1,6 +1,5 @@
 I'm Trevor.
 
-I'm mainly learning Python and M$ Azure right now.
-I began in 2021 and have been self-taught, using a variety of resources and aids
+This is my collection of scripts and programs that I've put together for learning Python and JS or anything else I decide to pick up.
 
-What I put up here is largely stuff I've created thus far in the learning process which I think demonstrates that learning. Irregularities in posting is because I spent more time focused on study than updating repositories!
+Anyone looking to run code here will need Python 3.x or node.js. If you have installed the latest version of Python to run Python scripts or node.js, npm, and JVM for Java and Javascript files, you should be able to run everything. Specific instructions for installing module dependencies will be located in those projects.
